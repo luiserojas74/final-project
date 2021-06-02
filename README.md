@@ -1,2 +1,2 @@
-# final-project
+# FinalProject
 Final Project
